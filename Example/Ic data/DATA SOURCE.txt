@@ -1,0 +1,5 @@
+Data is taken from:
+
+S. C. Wimbush and N. M. Strickland (2017): Critical current characterisation of Shanghai Superconductor PA1212 2G HTS superconducting wire. figshare. https://doi.org/10.6084/m9.figshare.5331145.v2.
+
+Supplied under a CC BY 4.0 licence.
