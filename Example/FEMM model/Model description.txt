@@ -1,0 +1,2 @@
+One double pancake formed from 12 mm wire. Inner radius 25 mm. Outer radius 50 mm. 250 turns.
+Operating current 120 A. Central field 1 T.
